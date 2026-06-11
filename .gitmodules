@@ -1,0 +1,18 @@
+[submodule "Usuarios"]
+	path = Usuarios
+	url = https://github.com/Phill721/SmartLogix-Usuarios.git
+[submodule "Productos"]
+	path = Productos
+	url = https://github.com/Phill721/SmartLogix-Productos.git
+[submodule "Inventario"]
+	path = Inventario
+	url = https://github.com/Phill721/SmartLogix-Inventario.git
+[submodule "Pedidos"]
+	path = Pedidos
+	url = https://github.com/Phill721/SmartLogix-Pedidos.git
+[submodule "BFF"]
+	path = BFF
+	url = https://github.com/Phill721/SmartLogix-BFF.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/Phill721/SmartLogix-Frontend.git

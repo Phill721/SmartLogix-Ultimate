@@ -13,3 +13,6 @@
 [submodule "BFF"]
 	path = BFF
 	url = https://github.com/Phill721/SmartLogix-BFF.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Phill721/SmartLogix-Frontend.git
